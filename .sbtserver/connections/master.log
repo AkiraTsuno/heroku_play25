@@ -1,0 +1,8 @@
+New log file opened at Wed Mar 16 19:08:50 JST 2016 by 1540@BIZ2014-0013
+Taking next connection to: 60538
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 1540@BIZ2014-0013 logs at Wed Mar 16 19:11:50 JST 2016, goodbye.
